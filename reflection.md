@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I accidentally started with unibrow, skipping the pandaslib function part. When I realized, it was a simple fix to go back and substitute certain lines. I had a little trouble trying wrap my head around what the program was actually supposed to output, but as I got closer to the end of the code, I deduced what to streamlit should look and feel like to interact with. Overall I was very pleased with the way the assignment turned out and I believe I have a strong understanding of the code behind it.
